@@ -1,0 +1,14 @@
+*/runs/*
+*/models/*
+.vscode
+*.bin
+*.ply
+*.html
+build/*
+results/*
+__pycache__
+*/ompl/*
+*.pickle
+vactloc/*
+*.pth
+*.torch
